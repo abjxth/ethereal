@@ -1,0 +1,2 @@
+# ethereal
+Minimalist MIDI Visualiser
