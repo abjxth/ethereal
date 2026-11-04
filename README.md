@@ -1,6 +1,6 @@
 <h1 align="center">Ethereal</h1>
 <p align="center">
-    <a href="https://github.com/abjxth"><img alt="Made by Abijith Adithya" src="https://img.shields.io/badge/Made_by-Abijith_Adithya-blue></a>
+    <a href="https://github.com/abjxth"><img alt="Made by Abijith Adithya" src="https://img.shields.io/badge/Made%20by-Abijith%20Adithya-blue"></a>
 </p>
 <p align="center"><strong>Minimalist MIDI Visualiser</strong></p>
 
