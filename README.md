@@ -5,9 +5,7 @@
 <p align="center"><strong>Minimalist MIDI Visualiser</strong></p>
 
 <img align="center" width="1399" height="876" alt="image" src="https://github.com/user-attachments/assets/6e57ed6b-910c-42e0-a31e-0dc840ecb4e5" />
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/569d8a82-4cee-4462-af39-c9555e854510" width="70%" controls></video>
-</p>
+https://github.com/user-attachments/assets/569d8a82-4cee-4462-af39-c9555e854510
 
 
 
