@@ -6,7 +6,7 @@
 
 <img align="center" width="1399" height="876" alt="image" src="https://github.com/user-attachments/assets/6e57ed6b-910c-42e0-a31e-0dc840ecb4e5" />
 
-[![Sample Export](https://youtu.be/DkP91zZtAjw?si=wJCTWDqNLgZ7aJAJ)](https://youtu.be/DkP91zZtAjw?si=wJCTWDqNLgZ7aJAJ)
+[![Sample Export](https://www.youtube.com/watch?v=DkP91zZtAjw)]
 
 
 
